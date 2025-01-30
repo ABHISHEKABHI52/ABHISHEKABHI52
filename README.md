@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABHISHEKABHI52
-- 👀 I’m interested in . ( Python,coding etc..)
+- 👀 I’m interested in . ( Machine Learning ,Data Visualization ,Predictive Analytics ,Big Data Technologies)
 - 🌱 I’m currently learning .( Data structures in python , file handling ....)
 - 💞️ I’m looking to collaborate on . ( Real-time data dashboard...)
 - 📫 How to reach me ... (linkedin.com/in/abhishek-kumar-a720a8247) , abhishekkumar9955517@gmail.com
