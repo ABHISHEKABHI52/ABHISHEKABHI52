@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on . ( Real-time data dashboard...)
 - 📫 How to reach me ... (linkedin.com/in/abhishek-kumar-a720a8247) , abhishekkumar9955517@gmail.com
 - 😄 Pronouns: . Abhi
-- ⚡ Fun fact: .. ( no fun )
+- ⚡ Fun fact: .. ( "I automate my coffee machine with python" )
 - 🌱 Sanatani... 
  
 <!---
