@@ -2,7 +2,7 @@
 - 👀 I’m interested in . ( Machine Learning ,Data Visualization ,Predictive Analytics ,Big Data Technologies)
 - 🌱 I’m currently learning .( Data structures in python , file handling ....)
 - 💞️ I’m looking to collaborate on . ( Real-time data dashboard...)
-- 📫 How to reach me ... (linkedin.com/in/abhishek-kumar-a720a8247) , abhishekkumar9955517@gmail.com
+- 📫 How to reach me ... (https://www.linkedin.com/in/abhishek-singh52) , abhishekkumar9955517@gmail.com
 - 😄 Pronouns: . Abhi
 - ⚡ Fun fact: .. ( "I automate my coffee machine with python" )
 - 🌱 Sanatani... 
