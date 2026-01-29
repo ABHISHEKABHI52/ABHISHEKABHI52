@@ -8,10 +8,15 @@
 
 ## 💫 About Me
 
-Detail-oriented **Data Analytics enthusiast** with hands-on experience in **Python, SQL, Excel, and Power BI**.  
-I enjoy working on **real-world datasets**, improving **code quality**, and contributing to **open-source projects**.
+I’m a **detail-oriented Data Analytics enthusiast** with hands-on experience in  
+**Python, SQL, Excel, and Power BI**.
 
-Recently made my **first open-source contribution to SymPy**, working on **type annotations** to improve maintainability and static analysis — gaining exposure to production-level Python codebases.
+I enjoy working on **real-world datasets**, improving **code quality**, and contributing to  
+**open-source projects**.
+
+Recently, I made my **first open-source contribution to SymPy**, where I worked on  
+**type annotations** to improve maintainability and static analysis—giving me exposure  
+to **production-level Python codebases** and real open-source workflows.
 
 ---
 
@@ -59,14 +64,17 @@ Recently made my **first open-source contribution to SymPy**, working on **type 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKABHI52&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=ABHISHEKABHI52&theme=dark)
+![GitHub Stats](https://github-readme-stats-mj368os2.vercel.app/api?username=ABHISHEKABHI52&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-stats-mj368os2.vercel.app/api/streak?user=ABHISHEKABHI52&theme=dark)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ABHISHEKABHI52&theme=dark&no-frame=true&margin-w=10)
+- 🌟 Open Source Contributor to **SymPy**
+- 🛠️ Experience with production-grade Python code
+- 📈 Strong focus on learning clean architecture & maintainable systems
 
 ---
 
