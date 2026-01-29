@@ -64,9 +64,10 @@ to **production-level Python codebases** and real open-source workflows.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-mj368os2.vercel.app/api?username=ABHISHEKABHI52&show_icons=true&theme=dark)
+![ABHISHEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKABHI52&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-stats-mj368os2.vercel.app/api/streak?user=ABHISHEKABHI52&theme=dark)
+![ABHISHEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKABHI52&show_icons=true)
+
 
 ---
 
