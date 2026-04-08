@@ -1,82 +1,87 @@
-# 👋 Hi, I’m Abhishek Kumar (@ABHISHEKABHI52)
+# Hi, I'm Abhishek Kumar 👋
 
-🚀 Open Source Contributor | Data Analytics | Python  
-🎓 2nd-year Engineering Student  
-🌍 Contributor @ Open Source Connect Global 2026
-
----
-
-## 💫 About Me
-
-I’m a **detail-oriented Data Analytics enthusiast** with hands-on experience in  
-**Python, SQL, Excel, and Power BI**.
-
-I enjoy working on **real-world datasets**, improving **code quality**, and contributing to  
-**open-source projects**.
-
-Recently, I made my **first open-source contribution to SymPy**, where I worked on  
-**type annotations** to improve maintainability and static analysis—giving me exposure  
-to **production-level Python codebases** and real open-source workflows.
+🎓 2nd Year Engineering Student  
+📊 Interested in Data, Research, and Real-World Problem Solving  
 
 ---
 
-## 🛠️ Currently Focused On
+## About Me
 
-- 📊 Data Analysis & Visualization  
-- 🐍 Data Structures & Algorithms (Python)  
-- 🌐 Open Source Contributions  
-- 📈 Real-time Data Dashboards  
+I’m currently exploring how data can be used to solve real problems, especially in areas like climate and public health.
+
+Right now, I’m working on a research project focused on understanding how floods and extreme heat affect maternal health in Assam. The goal is to analyze real datasets and find patterns that can actually help in decision-making.
+
+Along with that, I build small projects in Python, mostly around data analysis and machine learning, to improve my practical understanding.
+
+I’ve also started contributing to open source. Recently, I made my first contribution to SymPy, where I worked on improving type annotations. It gave me a good idea of how real codebases work.
 
 ---
 
-## 🤝 Open To
+## What I’m Working On
 
-- Data Analytics / Python Internships  
-- Open-source collaborations  
-- Mentorship opportunities  
+- Climate & Maternal Health Data Analysis (ongoing)
+- Improving Python and problem-solving skills
+- Exploring real-world datasets and building insights
+- Learning how to write better, cleaner code
 
-📫 **Reach me**  
-- LinkedIn: https://www.linkedin.com/in/abhishek-singh52  
-- Email: abhishekkumar9955517@gmail.com  
+---
+
+## Projects
+
+### AI-Based Agriculture Monitoring System
+- Built a basic ML system to detect plant diseases from images  
+- Used image processing and classification techniques  
+- Worked with large datasets (~80k+ images)  
+- Still improving the model and trying to connect it with real-world conditions  
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 
-### Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### Data & Analytics  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
-### Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Backend & Tools  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![ABHISHEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKABHI52&show_icons=true&theme=radical)
-
-![ABHISHEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKABHI52&show_icons=true)
-
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKABHI52&show_icons=true&theme=radical)
 
 ---
 
-## 🏆 GitHub Highlights
+## Open Source
 
-- 🌟 Open Source Contributor to **SymPy**
-- 🛠️ Experience with production-grade Python code
-- 📈 Strong focus on learning clean architecture & maintainable systems
+- Contributor to SymPy (worked on type annotations)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ABHISHEKABHI52&style=flat-square)
+## What I’m Looking For
+
+- Internships (Data / Python / Research)
+- Open source collaborations
+- Opportunities to work on real-world problems
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/abhishek-singh52  
+Email: abhi6606188rungta@gmail.com  
+
+---
+
+*Still learning, still building.*
