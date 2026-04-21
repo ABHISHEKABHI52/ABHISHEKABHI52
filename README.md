@@ -80,7 +80,7 @@ I’ve also started contributing to open source. Recently, I made my first contr
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/abhishek-singh52  
-Email: abhi6606188rungta@gmail.com  
+Email: abhishekkumar995517@gmail.com  
 
 ---
 
